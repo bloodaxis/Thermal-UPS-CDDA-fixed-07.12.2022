@@ -1,0 +1,30 @@
+[
+  {
+	"copy-from": "clothing",
+	"type": "item_group",
+	"id": "clothing",
+	"extend": { "items": [
+		{ "item": "thermal_suit_ups", "prob": 10 },
+		{ "item": "thermal_outfit_ups", "prob": 5 }
+	] }
+  },
+  {
+	"copy-from": "allclothes",
+    "type": "item_group",
+    "id": "allclothes",
+    "extend": { "items": [
+		{ "item": "thermal_outfit_ups", "prob": 1 },
+		{ "item": "thermal_suit_ups", "prob": 2 }
+	] }
+  },
+  {
+    "copy-from": "underwear_unisex",
+    "id": "underwear_unisex",
+    "type": "item_group",
+    "//": "unisex underwear",
+    "extend": { "items": [
+      { "item": "thermal_suit_ups", "prob": 15 },
+	  { "item": "thermal_outfit_ups", "prob": 5 }
+	] }
+  }
+]
