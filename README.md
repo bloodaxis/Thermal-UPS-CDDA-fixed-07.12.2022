@@ -2,7 +2,7 @@
 
 Description:
 
-A little mod for Cataclysm: Dark Days Ahead that adds a UPS-powered variant to the thermal electric suit and outfit.
+A little mod for Cataclysm: Dark Days Ahead that adds a UPS-powered variant to the thermal electric suit and outfit that are also slightly warmer.
 
 Installation:
 
